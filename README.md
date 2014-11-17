@@ -12,3 +12,7 @@ MarkDown
 Zookeeper
 ========
 1. [Introduction to apache zookeeper](http://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper?related=1)
+
+Distributed Fun
+========
+1. [What-is-a-simple-explanation-of-the-Paxos-algorithm](http://www.quora.com/Distributed-Systems/What-is-a-simple-explanation-of-the-Paxos-algorithm)
